@@ -31,7 +31,7 @@ import java.awt.event.ActionEvent;
  * @packageName	: InhaTable.main
  * @fileName	: OrderList.java
  * @author		: SeoJeong Kim
- * @date		: 2024.05.23
+ * @date		: 2024.05.23 
  * @description	: 사용자의 지난 예약 내역을 모두 보여주는 화면
  * ==============================================================
  * DATE				AUTHOR				NOTE
