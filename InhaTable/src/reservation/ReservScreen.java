@@ -36,7 +36,7 @@ import main.Main;
 * 2024.05.28		SeoJeong Kim		최초 생성
 * 2024.05.29		SeoJeong Kim		레이아웃 구현 완료 
 * 2024.05.30		SeoJeong Kim		기능 구현 완료		
-*/
+*/ 
 
 public class ReservScreen {
 

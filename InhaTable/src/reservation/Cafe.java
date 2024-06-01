@@ -33,7 +33,7 @@ import java.awt.Font;
 * 2024.05.27		SeoJeong Kim		최초 생성
 * 2024.05.28		SeoJeong Kim		레이아웃 구현 완료
 * 2022.05.28		SeoJeong Kim		기능 구현 완료
-*/
+*/ 
 
 public class Cafe {
 
