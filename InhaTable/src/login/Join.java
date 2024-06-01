@@ -25,7 +25,7 @@ import java.awt.event.FocusEvent;
 /**
  * @packageName	: InhaTable.login
  * @fileName	: Join.java
- * @author		: SeoJeong Kim
+ * @author		: SeoJeong Kim 
  * @date		: 2024.05.23
  * @description	: 회원가입 화면
  * =====================================================================
