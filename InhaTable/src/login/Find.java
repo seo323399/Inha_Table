@@ -37,7 +37,7 @@ import java.awt.event.ItemEvent;
  * 2024.05.31		SeoJeong Kim		레이아웃 구현 완료
  * 2024.05.31		SeoJeong Kim		기능 구현 완료
  */ 
-
+ 
 public class Find extends JFrame { 
 	
 	private JFrame frame;
