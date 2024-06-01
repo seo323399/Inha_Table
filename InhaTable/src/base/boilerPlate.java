@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 * @fileName		: Boilerplate.java
 * @author		: TaeJeong Park
 * @date			: 2022.05.21
-* @description	: 유효성 검사를 위한 클래스
+* @description	: 유효성 검사를 위한 클래스 
 * ===========================================================
 * DATE				AUTHOR				NOTE
 * -----------------------------------------------------------
