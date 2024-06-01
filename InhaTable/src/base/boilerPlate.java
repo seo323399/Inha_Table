@@ -4,9 +4,9 @@ import java.util.concurrent.ThreadLocalRandom;
 import java.util.regex.Pattern;
 
 /**
-* @packageName	: orderhere.common
+* @packageName	: InhaTable.base
 * @fileName		: Boilerplate.java
-* @author		: TaeJeong Park
+* @author		: SeoJeong Kim
 * @date			: 2022.05.21
 * @description	: 유효성 검사를 위한 클래스 
 * ===========================================================
