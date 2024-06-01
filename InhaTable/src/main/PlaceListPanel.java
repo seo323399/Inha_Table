@@ -19,8 +19,8 @@ import reservation.Restaurant;
 * DATE				AUTHOR				NOTE 
 * -----------------------------------------------------------
 * 2024.05.27		SeoJeong Kim		최초 생성
-* 2022.05.28		SeoJeong Kim		기능 구현 완료
-*/
+* 2022.05.28		SeoJeong Kim		기능 구현 완료 
+*/ 
 
 public class PlaceListPanel extends JPanel {
 	
