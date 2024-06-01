@@ -11,7 +11,7 @@ package base;
 * -----------------------------------------------------------
 * 2024.05.27		SeoJeong Kim		최초 생성
 * 2024.05.27		SeoJeong Kim		필드 생성 완료
-* 2024.05.27		SeoJeong Kim		메소드 구현 완료
+* 2024.05.27		SeoJeong Kim		메소드 구현 완료 
 */
 
 public class UserData {	
