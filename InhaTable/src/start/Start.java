@@ -19,7 +19,7 @@ import java.awt.Font;
 * @packageName	: InhaTable.start
 * @fileName		: Start.java
 * @date			: 2024.05.27
-* @description	: 시작 로딩 화면   
+* @description	: 시작 로딩 화면    
 * ================================================================
 * DATE				AUTHOR				NOTE
 * ----------------------------------------------------------------
