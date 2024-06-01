@@ -161,7 +161,7 @@ public class ReservScreen {
 		frame.setLocationRelativeTo(null);
 		
 		// 선택된 식당 이미지를 출력하는 라벨
-		imageLabel = new JLabel(new ImageIcon("images/Place/"+ category+"/"+PlaceId+".jpg"));
+		imageLabel = new JLabel(new ImageIcon("images/place/"+ category+"/"+PlaceId+".jpg"));
 		imageLabel.setBounds(53, 179, 365, 256);
 		frame.getContentPane().add(imageLabel);
 		
