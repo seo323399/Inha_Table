@@ -136,7 +136,7 @@ public class Restaurant {
                 ));
                 
                 // 식당 이미지 추가
-                String ImageLink = "images/Place/restaurant/" + restId + ".jpg";
+                String ImageLink = "images/place/restaurant/" + restId + ".jpg";
                 JLabel imageLabel = new JLabel(new ImageIcon(ImageLink));
                 imageLabel.setPreferredSize(new Dimension(400, 80)); // 이미지 크기 설정
                 buttonPanel.add(imageLabel, BorderLayout.WEST); // 이미지를 왼쪽에 추가
