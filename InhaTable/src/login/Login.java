@@ -27,7 +27,7 @@ import java.awt.event.KeyEvent;
  * @packageName	: InhaTable.login
  * @fileName	: Login.java
  * @author		: SeoJeong Kim
- * @date		: 2024.05.22
+ * @date		: 2024.05.22 
  * @description	: 로그인 화면
  * =============================================================
  * DATE				AUTHOR				NOTE
