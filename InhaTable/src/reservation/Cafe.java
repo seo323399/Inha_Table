@@ -137,7 +137,7 @@ public class Cafe {
                 ));
 
                 // 사진 추가
-                String ImageLink = "images/Place/cafe/" + cafeId + ".jpg";
+                String ImageLink = "images/place/cafe/" + cafeId + ".jpg";
                 JLabel imageLabel = new JLabel(new ImageIcon(ImageLink));
                 imageLabel.setPreferredSize(new Dimension(400, 80)); // 사진 크기 설정
                 buttonPanel.add(imageLabel, BorderLayout.WEST); // 사진을 왼쪽(WEST)에 추가
