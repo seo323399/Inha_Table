@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 /**
 * @packageName	: InhaTable.base
-* @fileName		: Boilerplate.java
+* @fileName		: Boilerplate.java 
 * @author		: SeoJeong Kim
 * @date			: 2022.05.21
 * @description	: 유효성 검사를 위한 클래스 
