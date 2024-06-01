@@ -37,7 +37,7 @@ import java.awt.event.ActionEvent;
  * @packageName		: InhaTable.main
  * @fileName		: Main.java
  * @author			: SeoJeong Kim  
- * @date			: 2024.05.23
+ * @date			: 2024.05.23 
  * @description	: 메인 화면 (로그인 성공시 가장 먼저 나타나는 화면)
  * ============================================================== 
  * DATE				AUTHOR				NOTE 
