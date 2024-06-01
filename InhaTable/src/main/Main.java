@@ -141,7 +141,7 @@ public class Main {
 		btnCafe.setForeground(new Color(92, 92, 92));
 		btnCafe.setFont(new Font("G마켓 산스 TTF Medium", Font.PLAIN, 16));
 		btnCafe.setBackground(new Color(255, 255, 255));
-		btnCafe.setIcon(new ImageIcon("images\\Main_Button\\donut.png"));
+		btnCafe.setIcon(new ImageIcon("images\\main\\donut.png"));
 		btnCafe.setVerticalTextPosition(SwingConstants.BOTTOM);
         btnCafe.setHorizontalTextPosition(SwingConstants.CENTER);
 		btnCafe.setBounds(296, 138, 237, 415);
@@ -151,7 +151,7 @@ public class Main {
 		btnBar.setForeground(new Color(92, 92, 92));
 		btnBar.setFont(new Font("G마켓 산스 TTF Medium", Font.PLAIN, 16));
 		btnBar.setBackground(new Color(255, 255, 255));
-		btnBar.setIcon(new ImageIcon("images\\Main_Button\\champagne.png"));
+		btnBar.setIcon(new ImageIcon("images\\main\\champagne.png"));
 		btnBar.setVerticalTextPosition(SwingConstants.BOTTOM);
         btnBar.setHorizontalTextPosition(SwingConstants.CENTER);
 		btnBar.setBounds(563, 138, 237, 415);
@@ -176,7 +176,7 @@ public class Main {
 		btnRest.setForeground(new Color(92, 92, 92));
 		btnRest.setFont(new Font("G마켓 산스 TTF Medium", Font.PLAIN, 16));
 		btnRest.setBackground(new Color(255, 255, 255));
-		btnRest.setIcon(new ImageIcon("images\\Main_Button\\rice.png"));
+		btnRest.setIcon(new ImageIcon("images\\main\\rice.png"));
 		btnRest.setVerticalTextPosition(SwingConstants.BOTTOM);
         btnRest.setHorizontalTextPosition(SwingConstants.CENTER);
 		btnRest.setBounds(34, 138, 237, 415);
