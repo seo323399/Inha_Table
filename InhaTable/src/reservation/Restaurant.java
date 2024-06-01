@@ -24,7 +24,7 @@ import java.awt.Font;
 /**
 * @packageName	: InhaTable.reservation
 * @fileName		: Restaurant.java
-* @date			: 2024.05.27
+* @date			: 2024.05.27 
 * @description	: 식당 예약 메인화면
 * =============================================================
 * DATE				AUTHOR				NOTE

@@ -24,7 +24,7 @@ import java.awt.Font;
 /**
 * @packageName	: InhaTable.reservation
 * @fileName		: Bar.java
-* @date			: 2024.05.27
+* @date			: 2024.05.27 
 * @description	: 주점 예약 메인화면
 * ================================================================
 * DATE				AUTHOR				NOTE

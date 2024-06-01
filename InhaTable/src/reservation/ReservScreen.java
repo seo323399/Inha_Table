@@ -28,7 +28,7 @@ import main.Main;
 * @packageName	: InhaTable.reservation
 * @fileName		: ReservScreen.java
 * @author		: SeoJeong Kim
-* @date			: 2024.05.28
+* @date			: 2024.05.28 
 * @description	: 장소 선택 후 예약 진행 화면
 * ===========================================================
 * DATE				AUTHOR				NOTE
