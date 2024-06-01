@@ -45,7 +45,7 @@ import java.awt.event.ActionEvent;
  * 2024.05.23		SeoJeong Kim		최초 생성 
  * 2024.05.27		SeoJeong Kim		로그아웃 버튼 기능 구현 
  * 2024.05.27		SeoJeong Kim		회원 정보 라벨 생성
- * 2024.05.28		SeoJeong Kim		예약하기 버튼 기능 구현 완료
+ * 2024.05.28		SeoJeong Kim		예약하기 버튼 기능 구현 완료 
  */
 
 public class Main {
